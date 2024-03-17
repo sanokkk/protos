@@ -1,4 +1,4 @@
-module protos
+module github.com/sanokkk/protos
 
 go 1.22rc2
 
